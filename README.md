@@ -1,17 +1,3 @@
-<!--
-**abhishekksingh06/abhishekksingh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">14 y/o Student Developer from India | Learning Rust & Go | Passionate about open-source & building cool projects A passionate frontend developer from India</h3>
 
@@ -40,7 +26,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekksingh06&show_icons=true&locale=en&layout=compact" alt="abhishekksingh06" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekksingh06&show_icons=true&locale=en" alt="abhishekksingh06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekksingh06&" alt="abhishekksingh06" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekksingh06&show_icons=true&locale=en" alt="abhishekksingh06" /></p>
 
